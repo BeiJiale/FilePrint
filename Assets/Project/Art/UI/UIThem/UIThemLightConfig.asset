@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c00ca215ac617b48953a32b3e06391b, type: 3}
+  m_Name: UIThemLightConfig
+  m_EditorClassIdentifier: Assembly-CSharp::UIThemLight
+  Background: {r: 0.9607843, g: 0.9529412, b: 0.9882353, a: 1}
+  Sidebar: {r: 1, g: 1, b: 1, a: 1}
+  TopBar: {r: 1, g: 1, b: 1, a: 1}
+  Content: {r: 0.9607843, g: 0.9529412, b: 0.9882353, a: 1}
+  Surface: {r: 1, g: 1, b: 1, a: 1}
+  SurfaceElevated: {r: 1, g: 1, b: 1, a: 1}
+  SurfaceHover: {r: 0.972549, g: 0.9647059, b: 1, a: 1}
+  SurfaceActive: {r: 0.92941177, g: 0.9098039, b: 1, a: 1}
+  SurfaceDisabled: {r: 0.94509804, g: 0.9372549, b: 0.9607843, a: 1}
+  Dialog: {r: 1, g: 1, b: 1, a: 1}
+  Dropdown: {r: 1, g: 1, b: 1, a: 1}
+  Tooltip: {r: 0.14509805, g: 0.12941177, b: 0.22745098, a: 1}
+  Overlay: {r: 0.09019608, g: 0.078431375, b: 0.1764706, a: 0.6}
+  Border: {r: 0.9098039, g: 0.89411765, b: 0.9411765, a: 1}
+  BorderStrong: {r: 0.8352941, g: 0.8156863, b: 0.88235295, a: 1}
+  BorderHover: {r: 0.7254902, g: 0.6627451, b: 0.96862745, a: 1}
+  BorderActive: {r: 0.4627451, g: 0.34117648, b: 0.9647059, a: 1}
+  InputBorder: {r: 0.8666667, g: 0.84705883, b: 0.9137255, a: 1}
+  Divider: {r: 0.93333334, g: 0.91764706, b: 0.95686275, a: 1}
+  TextPrimary: {r: 0.14509805, g: 0.12941177, b: 0.22745098, a: 1}
+  TextSecondary: {r: 0.52156866, g: 0.5058824, b: 0.5921569, a: 1}
+  TextTertiary: {r: 0.654902, g: 0.6392157, b: 0.70980394, a: 1}
+  TextDisabled: {r: 0.76862746, g: 0.7529412, b: 0.80784315, a: 1}
+  TextInverse: {r: 1, g: 1, b: 1, a: 1}
+  TextLink: {r: 0.4627451, g: 0.34117648, b: 0.9647059, a: 1}
+  TextLinkHover: {r: 0.34117648, g: 0.21960784, b: 0.8352941, a: 1}
+  Primary: {r: 0.4627451, g: 0.34117648, b: 0.9647059, a: 1}
+  PrimaryHover: {r: 0.40784314, g: 0.2784314, b: 0.91764706, a: 1}
+  PrimaryPressed: {r: 0.34117648, g: 0.21960784, b: 0.8352941, a: 1}
+  PrimaryDisabled: {r: 0.7490196, g: 0.69411767, b: 0.9764706, a: 1}
+  PrimarySoft: {r: 0.92941177, g: 0.9098039, b: 1, a: 1}
+  PrimarySubtle: {r: 0.96862745, g: 0.95686275, b: 1, a: 1}
+  PrimaryDeep: {r: 0.28627452, g: 0.20784314, b: 0.64705884, a: 1}
+  OnPrimary: {r: 1, g: 1, b: 1, a: 1}
+  Secondary: {r: 0.654902, g: 0.54509807, b: 0.98039216, a: 1}
+  SecondarySoft: {r: 0.94509804, g: 0.92156863, b: 1, a: 1}
+  Accent: {r: 0.54509807, g: 0.36078432, b: 0.9647059, a: 1}
+  ButtonSecondary: {r: 0.92941177, g: 0.9098039, b: 1, a: 1}
+  ButtonSecondaryHover: {r: 0.8901961, g: 0.85882354, b: 1, a: 1}
+  ButtonSecondaryPressed: {r: 0.8352941, g: 0.78431374, b: 1, a: 1}
+  ButtonSecondaryText: {r: 0.3882353, g: 0.27450982, b: 0.7882353, a: 1}
+  ButtonDanger: {r: 0.9372549, g: 0.26666668, b: 0.26666668, a: 1}
+  ButtonDangerHover: {r: 0.8627451, g: 0.14901961, b: 0.14901961, a: 1}
+  ButtonDangerText: {r: 1, g: 1, b: 1, a: 1}
+  ButtonDisabled: {r: 0.9254902, g: 0.91764706, b: 0.94509804, a: 1}
+  ButtonDisabledText: {r: 0.7176471, g: 0.7019608, b: 0.76862746, a: 1}
+  InputBackground: {r: 1, g: 1, b: 1, a: 1}
+  InputHover: {r: 0.9882353, g: 0.9843137, b: 1, a: 1}
+  InputFocused: {r: 1, g: 1, b: 1, a: 1}
+  InputFocusBorder: {r: 0.4627451, g: 0.34117648, b: 0.9647059, a: 1}
+  InputPlaceholder: {r: 0.6666667, g: 0.6509804, b: 0.72156864, a: 1}
+  InputDisabled: {r: 0.94509804, g: 0.9372549, b: 0.9607843, a: 1}
+  CheckBackground: {r: 1, g: 1, b: 1, a: 1}
+  CheckSelected: {r: 0.4627451, g: 0.34117648, b: 0.9647059, a: 1}
+  CheckMark: {r: 1, g: 1, b: 1, a: 1}
+  NavigationText: {r: 0.46666667, g: 0.44705883, b: 0.5294118, a: 1}
+  NavigationIcon: {r: 0.5529412, g: 0.5294118, b: 0.61960787, a: 1}
+  NavigationHover: {r: 0.9607843, g: 0.9490196, b: 1, a: 1}
+  NavigationActive: {r: 0.92941177, g: 0.9098039, b: 1, a: 1}
+  NavigationActiveText: {r: 0.40784314, g: 0.2784314, b: 0.91764706, a: 1}
+  NavigationActiveIcon: {r: 0.4627451, g: 0.34117648, b: 0.9647059, a: 1}
+  Success: {r: 0.13333334, g: 0.77254903, b: 0.36862746, a: 1}
+  SuccessBackground: {r: 0.9137255, g: 0.9764706, b: 0.9372549, a: 1}
+  SuccessBorder: {r: 0.7176471, g: 0.91764706, b: 0.7882353, a: 1}
+  SuccessText: {r: 0.08627451, g: 0.5019608, b: 0.23921569, a: 1}
+  Warning: {r: 0.9607843, g: 0.61960787, b: 0.043137256, a: 1}
+  WarningBackground: {r: 1, g: 0.9647059, b: 0.8980392, a: 1}
+  WarningBorder: {r: 0.9607843, g: 0.8392157, b: 0.6039216, a: 1}
+  WarningText: {r: 0.6313726, g: 0.38431373, b: 0.02745098, a: 1}
+  Error: {r: 0.9372549, g: 0.26666668, b: 0.26666668, a: 1}
+  ErrorBackground: {r: 0.99215686, g: 0.9254902, b: 0.9254902, a: 1}
+  ErrorBorder: {r: 0.9607843, g: 0.7254902, b: 0.7490196, a: 1}
+  ErrorText: {r: 0.7254902, g: 0.10980392, b: 0.10980392, a: 1}
+  Info: {r: 0.23137255, g: 0.50980395, b: 0.9647059, a: 1}
+  InfoBackground: {r: 0.91764706, g: 0.9490196, b: 1, a: 1}
+  InfoBorder: {r: 0.7254902, g: 0.8235294, b: 1, a: 1}
+  InfoText: {r: 0.11372549, g: 0.30588236, b: 0.84705883, a: 1}
+  ChartColor1: {r: 0.4627451, g: 0.34117648, b: 0.9647059, a: 1}
+  ChartColor2: {r: 0.23137255, g: 0.50980395, b: 0.9647059, a: 1}
+  ChartColor3: {r: 0.13333334, g: 0.77254903, b: 0.36862746, a: 1}
+  ChartColor4: {r: 0.9607843, g: 0.61960787, b: 0.043137256, a: 1}
+  ChartColor5: {r: 0.9254902, g: 0.28235295, b: 0.6, a: 1}
+  ChartGrid: {r: 0.9098039, g: 0.89411765, b: 0.9411765, a: 1}
+  ChartLabel: {r: 0.52156866, g: 0.5058824, b: 0.5921569, a: 1}
+  ChartTooltip: {r: 0.14509805, g: 0.12941177, b: 0.22745098, a: 1}
+  ScrollbarBackground: {r: 0.94509804, g: 0.9372549, b: 0.9607843, a: 1}
+  ScrollbarHandle: {r: 0.76862746, g: 0.74509805, b: 0.83137256, a: 1}
+  ScrollbarHandleHover: {r: 0.5882353, g: 0.54509807, b: 0.6862745, a: 1}
+  ProgressTrack: {r: 0.92941177, g: 0.9098039, b: 0.9607843, a: 1}
+  ProgressFill: {r: 0.4627451, g: 0.34117648, b: 0.9647059, a: 1}
+  Shadow: {r: 0.14509805, g: 0.12941177, b: 0.22745098, a: 0.09411765}
+  DialogShadow: {r: 0.14509805, g: 0.12941177, b: 0.22745098, a: 0.1882353}
+  Selection: {r: 0.4627451, g: 0.34117648, b: 0.9647059, a: 0.1882353}
+  FocusOutline: {r: 0.4627451, g: 0.34117648, b: 0.9647059, a: 1}
